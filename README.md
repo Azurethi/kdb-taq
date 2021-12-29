@@ -1,5 +1,10 @@
 # kdb+taq
 
+I've forked this repo as an example for a work related course.
+
+<hr>
+original content:
+
 ## Changes to kdb+taq
 
 ### 2020.06.12 (version 3.3 - sync with NYSE daily taq version 3.3)
