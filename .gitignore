@@ -1,2 +1,5 @@
 # Ignore data files
 *.txt
+
+# Ignore any future log files
+*.log
